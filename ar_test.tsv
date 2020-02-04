@@ -1,0 +1,3271 @@
+	
+1/2	QUANTITY
+large	SIZE
+sweet	NAME
+red	NAME
+onion	NAME
+,	O
+thinly	O
+sliced	STATE
+	
+6	QUANTITY
+ounces	UNIT
+fresh	DF
+mushrooms	NAME
+,	O
+sliced	STATE
+	
+4	QUANTITY
+corn	NAME
+tortillas	NAME
+	
+1	QUANTITY
+-LRB-	O
+9	QUANTITY
+ounce	UNIT
+-RRB-	O
+package	UNIT
+refrigerated	DF
+cheese	NAME
+tortellini	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+chopped	STATE
+fresh	DF
+basil	NAME
+leaves	NAME
+	
+3/4	QUANTITY
+cup	UNIT
+white	NAME
+sugar	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+extra-virgin	NAME
+olive	NAME
+oil	NAME
+	
+1	QUANTITY
+tomato	NAME
+,	O
+thinly	O
+sliced	STATE
+	
+2	QUANTITY
+-LRB-	O
+8	QUANTITY
+ounce	UNIT
+-RRB-	O
+cans	UNIT
+refrigerated	DF
+crescent	NAME
+rolls	NAME
+	
+6	QUANTITY
+-LRB-	O
+6	QUANTITY
+ounce	UNIT
+-RRB-	O
+tilapia	NAME
+fillets	NAME
+	
+1 1/2	QUANTITY
+teaspoons	UNIT
+curry	NAME
+powder	NAME
+	
+1	QUANTITY
+tablespoon	UNIT
+Worcestershire	NAME
+sauce	NAME
+	
+3	QUANTITY
+large	SIZE
+garlic	NAME
+cloves	UNIT
+,	O
+minced	STATE
+	
+1/3	QUANTITY
+cup	UNIT
+orange	NAME
+juice	NAME
+	
+1/2	QUANTITY
+cup	UNIT
+chopped	STATE
+onion	NAME
+,	O
+or	O
+to	O
+taste	O
+	
+1	QUANTITY
+teaspoon	UNIT
+ground	STATE
+thyme	O
+	
+2	QUANTITY
+-LRB-	O
+1.5	QUANTITY
+fluid	UNIT
+ounce	UNIT
+-RRB-	O
+jiggers	NAME
+banana	NAME
+liqueur	NAME
+	
+3/4	QUANTITY
+cup	UNIT
+shredded	STATE
+mozzarella	NAME
+cheese	NAME
+	
+4	QUANTITY
+-LRB-	O
+4	QUANTITY
+ounce	UNIT
+-RRB-	O
+fillets	NAME
+salmon	NAME
+,	O
+skin	O
+removed	O
+	
+1	QUANTITY
+cup	UNIT
+vegetable	NAME
+oil	NAME
+	
+1	QUANTITY
+pound	UNIT
+fresh	DF
+green	NAME
+beans	NAME
+,	O
+cut	STATE
+into	O
+1	QUANTITY
+inch	UNIT
+pieces	O
+	
+1	QUANTITY
+teaspoon	UNIT
+sesame	NAME
+oil	NAME
+	
+1 1/2	QUANTITY
+pounds	UNIT
+ground	STATE
+beef	NAME
+	
+1	QUANTITY
+pound	UNIT
+salad	NAME
+shrimp	NAME
+	
+2	QUANTITY
+portobello	NAME
+mushroom	NAME
+caps	NAME
+,	O
+sliced	STATE
+	
+3/4	QUANTITY
+pound	UNIT
+crabmeat	NAME
+	
+1/2	QUANTITY
+pint	UNIT
+sour	STATE
+cream	NAME
+	
+1	QUANTITY
+bunch	UNIT
+green	NAME
+onions	NAME
+,	O
+minced	STATE
+	
+1	QUANTITY
+tablespoon	UNIT
+poppy	NAME
+seeds	NAME
+	
+1/4	QUANTITY
+cup	UNIT
+cornstarch	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+chopped	STATE
+fresh	DF
+mint	NAME
+	
+1/4	QUANTITY
+cup	UNIT
+milk	NAME
+	
+2	QUANTITY
+teaspoons	UNIT
+granulated	STATE
+garlic	NAME
+	
+1	QUANTITY
+-LRB-	O
+12	QUANTITY
+ounce	UNIT
+-RRB-	O
+box	UNIT
+Barilla	NAME
+Gluten	NAME
+Free	NAME
+Penne	NAME
+	
+4	QUANTITY
+medium	SIZE
+tomatoes	NAME
+,	O
+halved	UNIT
+	
+1	QUANTITY
+pinch	UNIT
+cayenne	NAME
+pepper	NAME
+	
+1	QUANTITY
+tablespoon	UNIT
+butter	NAME
+,	O
+softened	STATE
+	
+2	QUANTITY
+teaspoons	UNIT
+dried	DF
+thyme	NAME
+	
+1	QUANTITY
+-LRB-	O
+0.25	QUANTITY
+ounce	UNIT
+-RRB-	O
+package	UNIT
+instant	STATE
+yeast	NAME
+	
+3	QUANTITY
+stalks	UNIT
+lemon	NAME
+grass	NAME
+,	O
+cut	STATE
+into	O
+1	O
+inch	O
+pieces	O
+	
+4	QUANTITY
+cups	UNIT
+sliced	STATE
+carrot	NAME
+	
+1/2	QUANTITY
+teaspoon	UNIT
+ground	STATE
+turmeric	NAME
+	
+2 1/2	QUANTITY
+tablespoons	UNIT
+white	NAME
+sugar	NAME
+	
+2/3	QUANTITY
+cup	UNIT
+almonds	NAME
+,	O
+coarsely	O
+chopped	STATE
+	
+4	QUANTITY
+cups	UNIT
+hominy	NAME
+	
+4	QUANTITY
+slices	UNIT
+Monterey	NAME
+Jack	NAME
+cheese	NAME
+	
+8	QUANTITY
+slices	UNIT
+crisp	O
+cooked	STATE
+bacon	NAME
+,	O
+crumbled	STATE
+	
+5	QUANTITY
+cups	UNIT
+apples	NAME
+-	O
+peeled	STATE
+,	O
+cored	STATE
+and	O
+chopped	STATE
+	
+1	QUANTITY
+-LRB-	O
+1	QUANTITY
+ounce	UNIT
+-RRB-	O
+package	UNIT
+fajita	NAME
+seasoning	NAME
+	
+1	QUANTITY
+fluid	UNIT
+ounce	UNIT
+red	NAME
+food	NAME
+coloring	NAME
+	
+8	QUANTITY
+ounces	UNIT
+sliced	STATE
+pepperoni	NAME
+sausage	NAME
+,	O
+each	O
+slice	O
+cut	STATE
+in	O
+half	O
+	
+ice	NAME
+	
+paprika	NAME
+,	O
+or	O
+to	O
+taste	O
+	
+2	QUANTITY
+-LRB-	O
+32	QUANTITY
+ounce	UNIT
+-RRB-	O
+containers	UNIT
+reduced	STATE
+sodium	STATE
+chicken	NAME
+broth	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+pomegranate	NAME
+juice	NAME
+	
+3/4	QUANTITY
+cup	UNIT
+fresh	DF
+peas	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+warm	TEMP
+milk	NAME
+-LRB-	O
+110	O
+to	O
+115	O
+degrees	O
+F	O
+-RRB-	O
+	
+2	QUANTITY
+teaspoons	UNIT
+ground	STATE
+turmeric	NAME
+	
+15	QUANTITY
+lasagna	NAME
+noodles	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+minced	STATE
+jalapeno	NAME
+pepper	NAME
+	
+1	QUANTITY
+-LRB-	O
+15	QUANTITY
+ounce	UNIT
+-RRB-	O
+can	UNIT
+coconut	NAME
+milk	NAME
+	
+1	QUANTITY
+large	SIZE
+leek	NAME
+,	O
+cleaned	STATE
+and	O
+thinly	O
+sliced	STATE
+	
+8	QUANTITY
+slices	UNIT
+bacon	NAME
+,	O
+cooked	STATE
+and	O
+crumbled	STATE
+	
+2	QUANTITY
+teaspoons	UNIT
+water	NAME
+	
+1 1/2	QUANTITY
+teaspoons	UNIT
+sugar	NAME
+	
+2	QUANTITY
+cups	UNIT
+heavy	NAME
+whipping	NAME
+cream	NAME
+	
+2	QUANTITY
+-LRB-	O
+3/4	QUANTITY
+pound	UNIT
+-RRB-	O
+pork	NAME
+tenderloins	NAME
+	
+6	QUANTITY
+cups	UNIT
+ice	NAME
+	
+1	QUANTITY
+pinch	UNIT
+ground	STATE
+allspice	NAME
+	
+1	QUANTITY
+cup	UNIT
+raisins	NAME
+	
+3	QUANTITY
+onions	NAME
+,	O
+peeled	STATE
+	
+1	QUANTITY
+-LRB-	O
+8	QUANTITY
+ounce	UNIT
+-RRB-	O
+package	UNIT
+cream	NAME
+cheese	NAME
+	
+3	QUANTITY
+English	NAME
+cucumbers	NAME
+,	O
+peeled	STATE
+and	O
+cubed	STATE
+	
+3/4	QUANTITY
+cup	UNIT
+milk	NAME
+	
+3/4	QUANTITY
+cup	UNIT
+chilled	STATE
+unsalted	STATE
+butter	NAME
+,	O
+cut	STATE
+into	O
+small	SIZE
+pieces	O
+	
+1/2	QUANTITY
+cup	UNIT
+small	SIZE
+diced	STATE
+green	NAME
+bell	NAME
+pepper	NAME
+	
+2	QUANTITY
+-LRB-	O
+6	QUANTITY
+ounce	UNIT
+-RRB-	O
+cans	UNIT
+black	NAME
+olives	NAME
+,	O
+drained	STATE
+and	O
+thinly	O
+sliced	STATE
+	
+1	QUANTITY
+tablespoon	UNIT
+orange	NAME
+zest	NAME
+-LRB-	O
+optional	O
+-RRB-	O
+	
+1	QUANTITY
+green	NAME
+or	O
+red	NAME
+bell	NAME
+pepper	NAME
+,	O
+chopped	STATE
+	
+1/2	QUANTITY
+cup	UNIT
+chopped	STATE
+celery	NAME
+	
+1	QUANTITY
+-LRB-	O
+12	QUANTITY
+ounce	UNIT
+-RRB-	O
+package	UNIT
+texturized	NAME
+vegetable	NAME
+protein	NAME
+-LRB-	O
+TVP	O
+-RRB-	O
+	
+1/4	QUANTITY
+cup	UNIT
+diced	STATE
+carrot	NAME
+	
+1	QUANTITY
+cup	UNIT
+butter	NAME
+	
+1/2	QUANTITY
+cup	UNIT
+tomato	NAME
+sauce	NAME
+	
+1	QUANTITY
+fresh	DF
+jalapeno	NAME
+pepper	NAME
+,	O
+seeded	STATE
+and	O
+minced	STATE
+	
+1 1/2	QUANTITY
+cups	UNIT
+warm	TEMP
+water	NAME
+-LRB-	O
+110	O
+degrees	O
+F/45	O
+degrees	O
+C	O
+-RRB-	O
+	
+1/2	QUANTITY
+cup	UNIT
+coconut	NAME
+milk	NAME
+	
+1	QUANTITY
+teaspoon	UNIT
+dried	DF
+rosemary	NAME
+	
+20	QUANTITY
+wonton	NAME
+wrappers	NAME
+	
+1	QUANTITY
+-LRB-	O
+16	QUANTITY
+ounce	UNIT
+-RRB-	O
+can	UNIT
+diced	STATE
+tomatoes	NAME
+with	O
+juice	NAME
+	
+1	QUANTITY
+teaspoon	UNIT
+cornstarch	NAME
+,	O
+mixed	O
+with	O
+equal	O
+parts	O
+water	O
+	
+1	QUANTITY
+-LRB-	O
+1.9	QUANTITY
+ounce	UNIT
+-RRB-	O
+container	UNIT
+aji	NAME
+nori	NAME
+furikake	O
+-LRB-	O
+seasoned	O
+seaweed	O
+and	O
+sesame	O
+rice	O
+topping	O
+-RRB-	O
+	
+1	QUANTITY
+-LRB-	O
+9	QUANTITY
+inch	UNIT
+-RRB-	O
+sponge	NAME
+cake	NAME
+	
+1	QUANTITY
+-LRB-	O
+14.5	QUANTITY
+ounce	UNIT
+-RRB-	O
+can	UNIT
+black	NAME
+beans	NAME
+,	O
+rinsed	STATE
+and	O
+drained	STATE
+	
+1	QUANTITY
+cup	UNIT
+long	NAME
+grain	NAME
+white	NAME
+rice	NAME
+	
+1/2	QUANTITY
+cup	UNIT
+cold	TEMP
+butter	NAME
+	
+1	QUANTITY
+large	SIZE
+onion	NAME
+,	O
+grated	STATE
+	
+6	QUANTITY
+pounds	UNIT
+small	SIZE
+white	NAME
+onions	NAME
+,	O
+cleaned	STATE
+and	O
+scored	STATE
+	
+2	QUANTITY
+red	NAME
+bell	NAME
+peppers	NAME
+,	O
+sliced	STATE
+	
+3	QUANTITY
+poblano	NAME
+peppers	NAME
+,	O
+seeded	STATE
+and	O
+diced	STATE
+	
+2	QUANTITY
+beef	NAME
+bouillon	NAME
+cubes	NAME
+	
+7	QUANTITY
+-LRB-	O
+28	QUANTITY
+ounce	UNIT
+-RRB-	O
+cans	UNIT
+crushed	STATE
+tomatoes	NAME
+	
+1	QUANTITY
+tablespoon	UNIT
+salt	NAME
+and	O
+pepper	NAME
+to	O
+taste	O
+	
+2 1/2	QUANTITY
+cups	UNIT
+diced	STATE
+apple	NAME
+without	O
+peel	O
+	
+3	QUANTITY
+scoops	UNIT
+vanilla	NAME
+ice	NAME
+cream	NAME
+	
+1 1/4	QUANTITY
+cups	UNIT
+cornmeal	NAME
+	
+1/2	QUANTITY
+cup	UNIT
+skim	O
+milk	NAME
+	
+4	QUANTITY
+tomatoes	NAME
+,	O
+chopped	STATE
+	
+2	QUANTITY
+tablespoons	UNIT
+canola	NAME
+oil	NAME
+	
+2	QUANTITY
+lemons	NAME
+,	O
+juiced	STATE
+	
+2	QUANTITY
+pounds	UNIT
+skinless	STATE
+,	O
+boneless	STATE
+chicken	NAME
+breast	NAME
+halves	NAME
+-	O
+cut	STATE
+into	O
+bite-size	O
+pieces	O
+	
+2	QUANTITY
+teaspoons	UNIT
+baking	NAME
+soda	NAME
+	
+1	QUANTITY
+green	NAME
+bell	NAME
+pepper	NAME
+,	O
+seeded	STATE
+and	O
+cut	STATE
+into	O
+strips	O
+	
+1	QUANTITY
+-LRB-	O
+16	QUANTITY
+ounce	UNIT
+-RRB-	O
+package	UNIT
+shredded	STATE
+mozzarella	NAME
+cheese	NAME
+	
+2	QUANTITY
+teaspoons	UNIT
+grated	STATE
+orange	NAME
+zest	NAME
+	
+4	QUANTITY
+cups	UNIT
+bread	NAME
+flour	NAME
+,	O
+or	O
+as	O
+needed	O
+	
+1/4	QUANTITY
+cup	UNIT
+hot	TEMP
+pepper	NAME
+sauce	NAME
+	
+1	QUANTITY
+tablespoon	UNIT
+chopped	STATE
+fresh	DF
+parsley	NAME
+,	O
+for	O
+garnish	O
+	
+1 1/2	QUANTITY
+pounds	UNIT
+salmon	NAME
+steaks	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+chopped	STATE
+fresh	DF
+rosemary	NAME
+	
+2	QUANTITY
+cups	UNIT
+chopped	STATE
+,	O
+roasted	STATE
+green	NAME
+chiles	NAME
+	
+2/3	QUANTITY
+cup	UNIT
+clarified	NAME
+butter	NAME
+	
+16	QUANTITY
+leaves	O
+fresh	DF
+mint	NAME
+,	O
+crushed	STATE
+	
+2 1/2	QUANTITY
+tablespoons	UNIT
+garlic	NAME
+oil	NAME
+	
+1	QUANTITY
+-LRB-	O
+1/2	QUANTITY
+inch	UNIT
+-RRB-	O
+piece	UNIT
+fresh	DF
+ginger	NAME
+,	O
+sliced	STATE
+	
+2	QUANTITY
+tablespoons	UNIT
+grated	STATE
+fresh	DF
+ginger	NAME
+	
+1	QUANTITY
+dash	UNIT
+onion	NAME
+powder	NAME
+	
+2	QUANTITY
+slices	UNIT
+bread	NAME
+	
+1	QUANTITY
+pound	UNIT
+mozzarella	NAME
+cheese	NAME
+,	O
+shredded	STATE
+	
+2	QUANTITY
+tablespoons	UNIT
+prepared	O
+basil	NAME
+pesto	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+smoked	STATE
+paprika	NAME
+	
+1/2	QUANTITY
+teaspoon	UNIT
+ground	STATE
+cayenne	NAME
+pepper	NAME
+	
+5	QUANTITY
+saffron	NAME
+threads	NAME
+	
+1 1/2	QUANTITY
+teaspoons	UNIT
+butter	NAME
+	
+1	QUANTITY
+cup	UNIT
+red	NAME
+wine	NAME
+	
+1	QUANTITY
+avocado	NAME
+-	O
+peeled	STATE
+,	O
+seeded	STATE
+and	O
+sliced	STATE
+	
+1/2	QUANTITY
+cup	UNIT
+unsalted	STATE
+butter	NAME
+	
+1	QUANTITY
+-LRB-	O
+16	QUANTITY
+ounce	UNIT
+-RRB-	O
+can	UNIT
+cannellini	NAME
+beans	NAME
+,	O
+rinsed	STATE
+and	O
+drained	STATE
+	
+1	QUANTITY
+small	SIZE
+fresh	DF
+jalapeno	NAME
+pepper	NAME
+,	O
+minced	STATE
+	
+2	QUANTITY
+teaspoons	UNIT
+chopped	STATE
+fresh	DF
+thyme	NAME
+	
+1	QUANTITY
+carrot	NAME
+,	O
+grated	STATE
+	
+2	QUANTITY
+teaspoons	UNIT
+Cajun	NAME
+seasoning	NAME
+,	O
+or	O
+to	O
+taste	O
+	
+1	QUANTITY
+large	SIZE
+carrot	NAME
+,	O
+grated	STATE
+	
+1/2	QUANTITY
+cup	UNIT
+chopped	STATE
+onion	NAME
+	
+1/2	QUANTITY
+teaspoon	UNIT
+red	NAME
+pepper	NAME
+flakes	NAME
+-LRB-	O
+optional	O
+-RRB-	O
+	
+1/2	QUANTITY
+cup	UNIT
+chopped	STATE
+fresh	DF
+cilantro	NAME
+leaves	NAME
+	
+3	QUANTITY
+cups	UNIT
+apricot	NAME
+preserves	NAME
+	
+2	QUANTITY
+teaspoons	UNIT
+grated	STATE
+lemon	NAME
+zest	NAME
+	
+1	QUANTITY
+-LRB-	O
+1	QUANTITY
+pound	UNIT
+-RRB-	O
+loaf	UNIT
+processed	STATE
+cheese	NAME
+food	NAME
+,	O
+cut	STATE
+into	O
+thin	O
+slices	O
+	
+1/4	QUANTITY
+cup	UNIT
+chopped	STATE
+fresh	DF
+mint	NAME
+	
+3	QUANTITY
+tablespoons	UNIT
+ground	STATE
+turmeric	NAME
+	
+11	QUANTITY
+cups	UNIT
+all-purpose	NAME
+flour	NAME
+	
+3	QUANTITY
+large	SIZE
+cloves	UNIT
+garlic	NAME
+,	O
+chopped	STATE
+	
+1	QUANTITY
+-LRB-	O
+1	QUANTITY
+pound	UNIT
+-RRB-	O
+package	UNIT
+bacon	NAME
+,	O
+chopped	STATE
+	
+1	QUANTITY
+pound	UNIT
+shark	NAME
+steaks	NAME
+,	O
+cut	STATE
+into	O
+chunks	O
+	
+2	QUANTITY
+pounds	UNIT
+large	SIZE
+shrimp	NAME
+,	O
+peeled	STATE
+and	O
+deveined	STATE
+	
+1	QUANTITY
+teaspoon	UNIT
+ground	STATE
+paprika	NAME
+	
+1	QUANTITY
+cup	UNIT
+dry	DF
+unsweetened	STATE
+shredded	STATE
+coconut	NAME
+	
+1/2	QUANTITY
+bunch	UNIT
+cilantro	NAME
+	
+2	QUANTITY
+cups	UNIT
+fiddlehead	NAME
+ferns	NAME
+,	O
+ends	O
+trimmed	STATE
+	
+2	QUANTITY
+cups	UNIT
+hot	TEMP
+water	NAME
+	
+1	QUANTITY
+tablespoon	UNIT
+pepper	NAME
+	
+2	QUANTITY
+small	SIZE
+tomatoes	NAME
+,	O
+diced	STATE
+	
+1/2	QUANTITY
+cup	UNIT
+margarine	NAME
+,	O
+melted	STATE
+	
+1/2	QUANTITY
+-LRB-	O
+8	QUANTITY
+ounce	UNIT
+-RRB-	O
+package	UNIT
+sharp	O
+Cheddar	NAME
+cheese	NAME
+,	O
+cut	STATE
+into	O
+strips	O
+	
+1/4	QUANTITY
+cup	UNIT
+distilled	STATE
+white	NAME
+vinegar	NAME
+	
+2	QUANTITY
+teaspoons	UNIT
+chopped	STATE
+cashews	NAME
+	
+2	QUANTITY
+teaspoons	UNIT
+grated	STATE
+lemon	NAME
+peel	NAME
+	
+1	QUANTITY
+sheet	UNIT
+nori	NAME
+-LRB-	O
+dried	O
+seaweed	O
+-RRB-	O
+,	O
+cut	STATE
+into	O
+thin	O
+strips	O
+-LRB-	O
+optional	O
+-RRB-	O
+	
+1/3	QUANTITY
+cup	UNIT
+miso	NAME
+paste	NAME
+	
+1/3	QUANTITY
+cup	UNIT
+white	NAME
+vinegar	NAME
+	
+6	QUANTITY
+whole	UNIT
+cloves	NAME
+	
+2	QUANTITY
+romaine	NAME
+lettuce	NAME
+leaves	NAME
+	
+4	QUANTITY
+skinless	STATE
+,	O
+boneless	STATE
+turkey	NAME
+breast	NAME
+halves	NAME
+	
+12	QUANTITY
+plums	NAME
+,	O
+pitted	STATE
+and	O
+halved	UNIT
+	
+toothpicks	NAME
+,	O
+soaked	STATE
+in	O
+water	NAME
+	
+2 1/2	QUANTITY
+tablespoons	UNIT
+red	NAME
+miso	NAME
+paste	NAME
+	
+1	QUANTITY
+teaspoon	UNIT
+salt	NAME
+,	O
+or	O
+to	O
+taste	O
+	
+2	QUANTITY
+onions	NAME
+,	O
+minced	STATE
+	
+1	QUANTITY
+tablespoon	UNIT
+fish	NAME
+sauce	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+cornstarch	NAME
+	
+thinly	O
+sliced	STATE
+pepperoni	NAME
+	
+5	QUANTITY
+tablespoons	UNIT
+vegetable	NAME
+oil	NAME
+	
+1/4	QUANTITY
+teaspoon	UNIT
+Sichuan	NAME
+peppercorns	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+palm	NAME
+sugar	NAME
+	
+4	QUANTITY
+carrots	NAME
+,	O
+peeled	STATE
+and	O
+grated	STATE
+	
+3	QUANTITY
+tablespoons	UNIT
+minced	STATE
+fresh	DF
+ginger	NAME
+root	NAME
+	
+1 1/2	QUANTITY
+teaspoons	UNIT
+ground	STATE
+cinnamon	NAME
+	
+1/2	QUANTITY
+cup	UNIT
+crumbled	STATE
+feta	NAME
+cheese	NAME
+	
+2 1/2	QUANTITY
+teaspoons	UNIT
+ground	STATE
+ginger	NAME
+	
+6	QUANTITY
+pods	UNIT
+green	NAME
+cardamom	NAME
+	
+2	QUANTITY
+cups	UNIT
+fat-free	STATE
+mayonnaise	NAME
+	
+4	QUANTITY
+potatoes	NAME
+,	O
+peeled	STATE
+and	O
+sliced	STATE
+1/2-inch	O
+thick	O
+	
+6	QUANTITY
+sheets	UNIT
+nori	NAME
+-LRB-	O
+dry	DF
+seaweed	O
+-RRB-	O
+	
+1	QUANTITY
+-LRB-	O
+15	QUANTITY
+ounce	UNIT
+-RRB-	O
+can	UNIT
+kidney	NAME
+beans	NAME
+,	O
+rinsed	STATE
+and	O
+drained	STATE
+	
+2	QUANTITY
+large	SIZE
+heads	NAME
+savoy	NAME
+cabbage	NAME
+	
+1/4	QUANTITY
+cup	UNIT
+fresh	DF
+oregano	NAME
+,	O
+chopped	STATE
+	
+2	QUANTITY
+-LRB-	O
+15	QUANTITY
+ounce	UNIT
+-RRB-	O
+cans	UNIT
+black	NAME
+beans	NAME
+,	O
+drained	STATE
+and	O
+rinsed	STATE
+	
+2	QUANTITY
+teaspoons	UNIT
+vegetable	NAME
+oil	NAME
+	
+1/4	QUANTITY
+teaspoon	UNIT
+red	NAME
+pepper	NAME
+flakes	NAME
+	
+3/4	QUANTITY
+cup	UNIT
+sifted	STATE
+confectioners	NAME
+'	O
+sugar	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+tomato	NAME
+paste	NAME
+	
+2	QUANTITY
+teaspoons	UNIT
+rice	NAME
+wine	NAME
+vinegar	NAME
+	
+1	QUANTITY
+cup	UNIT
+finely	O
+chopped	STATE
+red	NAME
+onion	NAME
+	
+1	QUANTITY
+-LRB-	O
+10.75	QUANTITY
+ounce	UNIT
+-RRB-	O
+can	UNIT
+condensed	STATE
+cream	NAME
+of	NAME
+chicken	NAME
+soup	NAME
+	
+1/2	QUANTITY
+cup	UNIT
+chopped	STATE
+ham	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+minced	STATE
+onion	NAME
+	
+1	QUANTITY
+-LRB-	O
+10.75	QUANTITY
+ounce	UNIT
+-RRB-	O
+can	UNIT
+condensed	STATE
+cream	NAME
+of	NAME
+mushroom	NAME
+soup	NAME
+	
+1	QUANTITY
+scoop	UNIT
+vanilla	NAME
+bean	NAME
+ice	NAME
+cream	NAME
+-LRB-	O
+optional	O
+-RRB-	O
+	
+1	QUANTITY
+tablespoon	UNIT
+Cajun	NAME
+seasoning	NAME
+	
+1	QUANTITY
+teaspoon	UNIT
+granulated	STATE
+sugar	NAME
+	
+1	QUANTITY
+teaspoon	UNIT
+seasoned	STATE
+salt	NAME
+	
+1	QUANTITY
+-LRB-	O
+15	QUANTITY
+ounce	UNIT
+-RRB-	O
+can	UNIT
+diced	STATE
+tomatoes	NAME
+	
+1	QUANTITY
+red	NAME
+bell	NAME
+pepper	NAME
+	
+2	QUANTITY
+onions	NAME
+,	O
+chopped	STATE
+	
+1/4	QUANTITY
+cup	UNIT
+honey	NAME
+	
+1	QUANTITY
+egg	NAME
+,	O
+slightly	O
+beaten	STATE
+	
+1/4	QUANTITY
+teaspoon	UNIT
+white	NAME
+sugar	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+pine	NAME
+nuts	NAME
+	
+2	QUANTITY
+teaspoons	UNIT
+baking	NAME
+powder	NAME
+	
+2/3	QUANTITY
+cup	UNIT
+butter	NAME
+	
+1	QUANTITY
+cup	UNIT
+real	NAME
+maple	NAME
+syrup	NAME
+	
+1/4	QUANTITY
+cup	UNIT
+blanched	STATE
+slivered	STATE
+almonds	NAME
+	
+1/4	QUANTITY
+teaspoon	UNIT
+anise	NAME
+seed	NAME
+	
+1	QUANTITY
+pinch	UNIT
+white	NAME
+sugar	NAME
+	
+1	QUANTITY
+head	NAME
+cauliflower	NAME
+,	O
+cut	STATE
+into	O
+florets	O
+	
+2	QUANTITY
+tablespoons	UNIT
+Cajun	NAME
+seasoning	NAME
+	
+1/8	QUANTITY
+cup	UNIT
+olive	NAME
+oil	NAME
+	
+1	QUANTITY
+cup	UNIT
+water	NAME
+,	O
+or	O
+as	O
+needed	O
+to	O
+cover	O
+	
+1	QUANTITY
+cup	UNIT
+chopped	STATE
+green	NAME
+onions	NAME
+	
+1 1/2	QUANTITY
+pounds	UNIT
+sweet	NAME
+Italian	NAME
+sausage	NAME
+without	O
+fennel	O
+,	O
+casings	O
+removed	O
+	
+6	QUANTITY
+slices	UNIT
+bacon	NAME
+	
+10	QUANTITY
+fresh	DF
+curry	NAME
+leaves	NAME
+-LRB-	O
+optional	O
+-RRB-	O
+	
+1	QUANTITY
+tablespoon	UNIT
+garlic	NAME
+oil	NAME
+	
+1	QUANTITY
+cup	UNIT
+refried	O
+beans	NAME
+	
+1	QUANTITY
+cup	UNIT
+chopped	STATE
+walnuts	NAME
+-LRB-	O
+optional	O
+-RRB-	O
+	
+3	QUANTITY
+chipotle	NAME
+peppers	NAME
+in	O
+adobo	NAME
+sauce	NAME
+	
+1/2	QUANTITY
+cup	UNIT
+sunflower	NAME
+seeds	NAME
+	
+1	QUANTITY
+tablespoon	UNIT
+garlic	NAME
+salt	NAME
+	
+1	QUANTITY
+tablespoon	UNIT
+garlic	NAME
+powder	NAME
+	
+1/2	QUANTITY
+cup	UNIT
+distilled	STATE
+white	NAME
+vinegar	NAME
+	
+1/2	QUANTITY
+bunch	UNIT
+fresh	DF
+cilantro	NAME
+,	O
+finely	O
+chopped	STATE
+	
+2	QUANTITY
+pinches	UNIT
+ground	STATE
+black	NAME
+pepper	NAME
+	
+3/4	QUANTITY
+cup	UNIT
+crushed	STATE
+potato	NAME
+chips	NAME
+	
+1	QUANTITY
+pound	UNIT
+beef	NAME
+flank	NAME
+steak	NAME
+,	O
+trimmed	STATE
+of	O
+fat	O
+	
+1	QUANTITY
+cup	UNIT
+whipped	NAME
+cream	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+extra	NAME
+virgin	NAME
+olive	NAME
+oil	NAME
+,	O
+divided	STATE
+	
+1	QUANTITY
+cup	UNIT
+shredded	STATE
+Cheddar/Monterey	NAME
+Jack	NAME
+cheese	NAME
+blend	NAME
+	
+1/2	QUANTITY
+teaspoon	UNIT
+salt-free	STATE
+seasoning	NAME
+blend	NAME
+	
+1/2	QUANTITY
+pound	UNIT
+venison	NAME
+heart	NAME
+-LRB-	O
+optional	O
+-RRB-	O
+	
+1/4	QUANTITY
+-LRB-	O
+1	QUANTITY
+ounce	UNIT
+-RRB-	O
+package	UNIT
+taco	NAME
+seasoning	NAME
+mix	NAME
+	
+1	QUANTITY
+teaspoon	UNIT
+light	NAME
+soy	NAME
+sauce	NAME
+	
+2	QUANTITY
+cups	UNIT
+chopped	STATE
+fresh	DF
+spinach	NAME
+	
+1/4	QUANTITY
+cup	UNIT
+shredded	STATE
+Swiss	NAME
+cheese	NAME
+,	O
+or	O
+as	O
+needed	O
+-LRB-	O
+optional	O
+-RRB-	O
+	
+1	QUANTITY
+cup	UNIT
+cold	TEMP
+2	STATE
+%	STATE
+milk	NAME
+	
+4	QUANTITY
+cups	UNIT
+vegetable	NAME
+broth	NAME
+	
+1	QUANTITY
+-LRB-	O
+7	QUANTITY
+ounce	UNIT
+-RRB-	O
+package	UNIT
+toasted	STATE
+flake	NAME
+coconut	NAME
+	
+2	QUANTITY
+-LRB-	O
+8	QUANTITY
+ounce	UNIT
+-RRB-	O
+packages	O
+angel	NAME
+hair	NAME
+pasta	NAME
+	
+2	QUANTITY
+cups	UNIT
+ketchup	NAME
+	
+1	QUANTITY
+cup	UNIT
+chopped	STATE
+onion	NAME
+	
+4	QUANTITY
+pounds	UNIT
+onions	NAME
+	
+2	QUANTITY
+ripe	STATE
+tomatoes	NAME
+,	O
+diced	STATE
+	
+1/2	QUANTITY
+teaspoon	UNIT
+garlic	NAME
+powder	NAME
+	
+1	QUANTITY
+cup	UNIT
+corn	NAME
+oil	NAME
+	
+1	QUANTITY
+teaspoon	UNIT
+mayonnaise	NAME
+,	O
+or	O
+to	O
+taste	O
+	
+2	QUANTITY
+-LRB-	O
+14	QUANTITY
+ounce	UNIT
+-RRB-	O
+cans	UNIT
+green	NAME
+enchilada	NAME
+sauce	NAME
+,	O
+divided	STATE
+	
+1	QUANTITY
+pod	NAME
+star	NAME
+anise	NAME
+,	O
+whole	STATE
+	
+1	QUANTITY
+pound	UNIT
+Italian	NAME
+sausage	NAME
+,	O
+casings	O
+removed	O
+	
+1	QUANTITY
+cup	UNIT
+diced	STATE
+green	NAME
+chili	NAME
+peppers	NAME
+	
+3/4	QUANTITY
+cup	UNIT
+blanched	STATE
+almonds	NAME
+	
+1	QUANTITY
+teaspoon	UNIT
+white	NAME
+pepper	NAME
+	
+1	QUANTITY
+teaspoon	UNIT
+vegetable	NAME
+oil	NAME
+	
+1/4	QUANTITY
+cup	UNIT
+light	NAME
+soy	NAME
+sauce	NAME
+	
+6	QUANTITY
+pounds	UNIT
+pork	NAME
+back	NAME
+ribs	NAME
+	
+2	QUANTITY
+cups	UNIT
+cranberry	NAME
+sauce	NAME
+	
+1	QUANTITY
+lemon	NAME
+,	O
+juiced	STATE
+,	O
+or	O
+to	O
+taste	O
+	
+6	QUANTITY
+ounces	UNIT
+shredded	STATE
+Swiss	NAME
+cheese	NAME
+	
+1 1/2	QUANTITY
+teaspoons	UNIT
+oyster	NAME
+sauce	NAME
+	
+1	QUANTITY
+point	O
+from	O
+whole	UNIT
+smoked	STATE
+brisket	NAME
+,	O
+cut	STATE
+into	O
+1-inch	O
+squares	O
+	
+1/3	QUANTITY
+cup	UNIT
+red	NAME
+wine	NAME
+	
+3/4	QUANTITY
+teaspoon	UNIT
+freshly	DF
+ground	STATE
+black	NAME
+pepper	NAME
+	
+1	QUANTITY
+cup	UNIT
+chickpea	NAME
+flour	NAME
+-LRB-	O
+besan	O
+-RRB-	O
+	
+1/2	QUANTITY
+teaspoon	UNIT
+saffron	NAME
+	
+1	QUANTITY
+cup	UNIT
+sifted	STATE
+all-purpose	NAME
+flour	NAME
+	
+2 1/4	QUANTITY
+cups	UNIT
+white	NAME
+sugar	NAME
+	
+1	QUANTITY
+dash	UNIT
+pepper	NAME
+sauce	NAME
+	
+1	QUANTITY
+tablespoon	UNIT
+Italian	NAME
+seasoning	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+honey	NAME
+	
+3/4	QUANTITY
+cup	UNIT
+dry	DF
+bread	NAME
+crumbs	NAME
+	
+4	QUANTITY
+teaspoons	UNIT
+dried	DF
+mint	NAME
+	
+1	QUANTITY
+-LRB-	O
+5	QUANTITY
+ounce	UNIT
+-RRB-	O
+can	UNIT
+sliced	STATE
+water	NAME
+chestnuts	NAME
+,	O
+drained	STATE
+	
+2	QUANTITY
+tablespoons	UNIT
+Italian	NAME
+salad	NAME
+dressing	NAME
+	
+2	QUANTITY
+avocados	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+garlic	NAME
+paste	NAME
+	
+1/2	QUANTITY
+cup	UNIT
+plain	O
+low-fat	STATE
+Greek	NAME
+yogurt	NAME
+	
+2	QUANTITY
+apples	NAME
+-	O
+peeled	STATE
+,	O
+cored	STATE
+and	O
+finely	O
+chopped	STATE
+	
+4	QUANTITY
+cups	UNIT
+lard	NAME
+for	O
+frying	O
+	
+1	QUANTITY
+-LRB-	O
+4	QUANTITY
+pound	UNIT
+-RRB-	O
+lean	STATE
+raw	STATE
+corned	STATE
+beef	NAME
+brisket	NAME
+	
+1	QUANTITY
+teaspoon	UNIT
+yeast	NAME
+extract	NAME
+spread	NAME
+-LRB-	O
+optional	O
+-RRB-	O
+	
+1	QUANTITY
+pound	UNIT
+roma	NAME
+-LRB-	O
+plum	O
+-RRB-	O
+tomatoes	NAME
+,	O
+chopped	STATE
+	
+1	QUANTITY
+tablespoon	UNIT
+chicken	NAME
+bouillon	NAME
+granules	NAME
+	
+8	QUANTITY
+slices	UNIT
+pepperjack	NAME
+cheese	NAME
+	
+1	QUANTITY
+teaspoon	UNIT
+ground	STATE
+dried	DF
+chile	NAME
+pepper	NAME
+-LRB-	O
+optional	O
+-RRB-	O
+	
+1/2	QUANTITY
+teaspoon	UNIT
+dried	DF
+onion	NAME
+flakes	NAME
+	
+1	QUANTITY
+bunch	UNIT
+fresh	DF
+parsley	NAME
+,	O
+chopped	STATE
+	
+3	QUANTITY
+eggs	NAME
+,	O
+or	O
+more	O
+to	O
+taste	O
+	
+2	QUANTITY
+tablespoons	UNIT
+bread	NAME
+flour	NAME
+	
+4	QUANTITY
+cups	UNIT
+refried	NAME
+beans	NAME
+,	O
+divided	STATE
+	
+2	QUANTITY
+tablespoons	UNIT
+water	NAME
+	
+1	QUANTITY
+large	SIZE
+egg	NAME
+	
+Lime	NAME
+Wedge	NAME
+	
+4	QUANTITY
+potatoes	NAME
+,	O
+quartered	STATE
+	
+1	QUANTITY
+cup	UNIT
+tahini	NAME
+-LRB-	O
+sesame-seed	O
+paste	O
+-RRB-	O
+	
+2	QUANTITY
+teaspoons	UNIT
+rice	NAME
+vinegar	NAME
+	
+1/3	QUANTITY
+cup	UNIT
+frozen	TEMP
+corn	NAME
+kernels	NAME
+	
+2	QUANTITY
+cloves	UNIT
+garlic	NAME
+,	O
+peeled	STATE
+	
+1/4	QUANTITY
+teaspoon	UNIT
+instant	NAME
+coffee	NAME
+granules	NAME
+	
+1/4	QUANTITY
+cup	UNIT
+dry	DF
+bread	NAME
+crumbs	NAME
+	
+1	QUANTITY
+teaspoon	UNIT
+ground	STATE
+coriander	NAME
+	
+2	QUANTITY
+tomatoes	NAME
+,	O
+cubed	STATE
+	
+1/2	QUANTITY
+teaspoon	UNIT
+ground	STATE
+cumin	NAME
+-LRB-	O
+optional	O
+-RRB-	O
+	
+1/4	QUANTITY
+cup	UNIT
+lemon	NAME
+juice	NAME
+	
+2	QUANTITY
+-LRB-	O
+6.5	QUANTITY
+ounce	UNIT
+-RRB-	O
+cans	UNIT
+chopped	STATE
+clams	NAME
+,	O
+drained	STATE
+	
+1	QUANTITY
+cup	UNIT
+eggs	NAME
+,	O
+beaten	STATE
+	
+1	QUANTITY
+tablespoon	UNIT
+flax	NAME
+seeds	NAME
+	
+1/2	QUANTITY
+cup	UNIT
+peanut	NAME
+butter	NAME
+	
+2	QUANTITY
+ounces	UNIT
+bittersweet	NAME
+chocolate	NAME
+	
+2	QUANTITY
+teaspoons	UNIT
+ground	STATE
+black	NAME
+pepper	NAME
+	
+1	QUANTITY
+pound	UNIT
+mild	NAME
+Italian	NAME
+turkey	NAME
+sausage	NAME
+,	O
+casings	O
+removed	O
+	
+1	QUANTITY
+teaspoon	UNIT
+prepared	O
+mustard	NAME
+	
+3/4	QUANTITY
+pound	UNIT
+boneless	STATE
+,	O
+skinless	STATE
+chicken	NAME
+breasts	NAME
+	
+1/2	QUANTITY
+tablespoon	UNIT
+miso	NAME
+paste	NAME
+	
+2	QUANTITY
+cups	UNIT
+cooked	STATE
+diced	STATE
+chicken	NAME
+	
+1	QUANTITY
+tablespoon	UNIT
+minced	STATE
+lemon	NAME
+grass	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+green	NAME
+bell	NAME
+pepper	NAME
+,	O
+chopped	STATE
+	
+1/2	QUANTITY
+yellow	NAME
+onion	NAME
+,	O
+sliced	STATE
+	
+1	QUANTITY
+tablespoon	UNIT
+Asian	NAME
+-LRB-	O
+toasted	STATE
+-RRB-	O
+sesame	NAME
+oil	NAME
+	
+1	QUANTITY
+-LRB-	O
+1	QUANTITY
+pound	UNIT
+-RRB-	O
+loaf	UNIT
+Italian	NAME
+bread	NAME
+,	O
+cut	STATE
+into	O
+1-inch	O
+cubes	O
+	
+3	QUANTITY
+tablespoons	UNIT
+softened	STATE
+butter	NAME
+,	O
+or	O
+as	O
+needed	O
+	
+1 1/2	QUANTITY
+cups	UNIT
+milk	NAME
+	
+1/4	QUANTITY
+cup	UNIT
+vinegar	NAME
+	
+1	QUANTITY
+-LRB-	O
+16	QUANTITY
+ounce	UNIT
+-RRB-	O
+bottle	UNIT
+Catalina	NAME
+salad	NAME
+dressing	NAME
+	
+12	QUANTITY
+slices	UNIT
+pancetta	NAME
+-LRB-	O
+Italian	O
+unsmoked	O
+cured	O
+bacon	O
+-RRB-	O
+	
+1	QUANTITY
+sweet	NAME
+Italian	NAME
+pepper	NAME
+,	O
+chopped	STATE
+	
+1/2	QUANTITY
+cup	UNIT
+crumbled	STATE
+feta	NAME
+cheese	NAME
+-LRB-	O
+can	O
+use	O
+reduced-fat	O
+-RRB-	O
+	
+1/4	QUANTITY
+cup	UNIT
+chopped	STATE
+celery	NAME
+	
+4	QUANTITY
+cloves	UNIT
+garlic	NAME
+,	O
+chopped	STATE
+	
+1	QUANTITY
+apple	NAME
+-	O
+peeled	STATE
+,	O
+cored	STATE
+and	O
+sliced	STATE
+	
+1	QUANTITY
+bunch	UNIT
+green	NAME
+onions	NAME
+,	O
+chopped	STATE
+	
+1	QUANTITY
+small	SIZE
+carrot	NAME
+,	O
+grated	STATE
+	
+4	QUANTITY
+cups	UNIT
+peeled	STATE
+and	O
+diced	STATE
+pumpkin	NAME
+	
+1	QUANTITY
+teaspoon	UNIT
+lemon	NAME
+pepper	NAME
+	
+5	QUANTITY
+slices	UNIT
+bacon	NAME
+,	O
+chopped	STATE
+	
+4	QUANTITY
+medium	SIZE
+fresh	DF
+jalapeno	NAME
+peppers	NAME
+,	O
+seeded	STATE
+,	O
+deveined	STATE
+,	O
+and	O
+finely	O
+minced	STATE
+	
+1	QUANTITY
+-LRB-	O
+4.5	QUANTITY
+ounce	UNIT
+-RRB-	O
+can	UNIT
+diced	STATE
+green	NAME
+chile	NAME
+peppers	NAME
+	
+1/2	QUANTITY
+small	SIZE
+red	NAME
+onion	NAME
+,	O
+chopped	STATE
+	
+1	QUANTITY
+dash	UNIT
+ground	STATE
+black	NAME
+pepper	NAME
+	
+1	QUANTITY
+pinch	UNIT
+ground	STATE
+nutmeg	NAME
+	
+1	QUANTITY
+-LRB-	O
+2	QUANTITY
+inch	UNIT
+-RRB-	O
+piece	UNIT
+fresh	DF
+ginger	NAME
+root	NAME
+,	O
+peeled	STATE
+and	O
+sliced	STATE
+	
+1/4	QUANTITY
+cup	UNIT
+dry	DF
+white	NAME
+wine	NAME
+	
+1/2	QUANTITY
+cup	UNIT
+uncooked	STATE
+spinach	NAME
+pasta	NAME
+	
+1/2	QUANTITY
+cup	UNIT
+olive	NAME
+oil	NAME
+,	O
+divided	STATE
+	
+1	QUANTITY
+serrano	NAME
+chile	NAME
+pepper	NAME
+,	O
+sliced	STATE
+,	O
+or	O
+more	O
+to	O
+taste	O
+	
+1	QUANTITY
+cup	UNIT
+chopped	STATE
+fennel	NAME
+bulb	NAME
+	
+1	QUANTITY
+tablespoon	UNIT
+chopped	STATE
+fresh	DF
+cilantro	NAME
+,	O
+or	O
+more	O
+to	O
+taste	O
+	
+3	QUANTITY
+tablespoons	UNIT
+ketchup	NAME
+	
+3/4	QUANTITY
+cup	UNIT
+cool	TEMP
+water	NAME
+,	O
+divided	STATE
+	
+4	QUANTITY
+slices	UNIT
+ripe	STATE
+tomato	NAME
+	
+2 1/2	QUANTITY
+cups	UNIT
+dry	DF
+lentils	NAME
+	
+1/4	QUANTITY
+cup	UNIT
+soy	NAME
+sauce	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+dried	DF
+oregano	NAME
+	
+3/4	QUANTITY
+cup	UNIT
+tomatoes	NAME
+,	O
+chopped	STATE
+	
+1/2	QUANTITY
+cup	UNIT
+blueberries	NAME
+	
+8	QUANTITY
+flour	NAME
+tortillas	NAME
+	
+freshly	DF
+ground	STATE
+black	NAME
+pepper	NAME
+to	O
+taste	O
+	
+sour	STATE
+cream	NAME
+	
+1	QUANTITY
+cup	UNIT
+panko	NAME
+bread	NAME
+crumbs	NAME
+,	O
+or	O
+as	O
+needed	O
+	
+1	QUANTITY
+hot	TEMP
+chile	NAME
+pepper	NAME
+	
+3	QUANTITY
+tablespoons	UNIT
+garlic	NAME
+powder	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+crumbled	STATE
+feta	NAME
+cheese	NAME
+,	O
+divided	STATE
+	
+1 1/2	QUANTITY
+cups	UNIT
+butter	NAME
+	
+3	QUANTITY
+carrots	NAME
+,	O
+sliced	STATE
+	
+1/2	QUANTITY
+cup	UNIT
+Parmigiano	NAME
+Reggiano	NAME
+cheese	NAME
+,	O
+shaved	STATE
+	
+4	QUANTITY
+teaspoons	UNIT
+Dijon	NAME
+mustard	NAME
+	
+1/2	QUANTITY
+cup	UNIT
+pine	NAME
+nuts	NAME
+	
+24	QUANTITY
+spot	NAME
+prawns	NAME
+	
+1	QUANTITY
+tablespoon	UNIT
+chopped	STATE
+fresh	DF
+mint	NAME
+	
+1/3	QUANTITY
+cup	UNIT
+extra	NAME
+virgin	NAME
+olive	NAME
+oil	NAME
+	
+soy	NAME
+sauce	NAME
+	
+10	QUANTITY
+leaves	NAME
+lettuce	NAME
+	
+1	QUANTITY
+pound	UNIT
+salt	NAME
+pork	NAME
+,	O
+diced	STATE
+	
+1	QUANTITY
+-LRB-	O
+15	QUANTITY
+ounce	UNIT
+-RRB-	O
+can	UNIT
+cannellini	NAME
+-LRB-	O
+white	NAME
+kidney	NAME
+-RRB-	O
+beans	NAME
+,	O
+drained	STATE
+	
+1 3/4	QUANTITY
+cups	UNIT
+water	NAME
+	
+5	QUANTITY
+pounds	UNIT
+American	NAME
+cheese	NAME
+,	O
+cut	STATE
+into	O
+pieces	O
+	
+4	QUANTITY
+green	NAME
+onions	NAME
+,	O
+thinly	O
+sliced	STATE
+	
+1	QUANTITY
+jalapeno	NAME
+pepper	NAME
+,	O
+minced	STATE
+	
+2 1/2	QUANTITY
+tablespoons	UNIT
+prepared	NAME
+horseradish	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+red	NAME
+wine	NAME
+,	O
+or	O
+as	O
+needed	O
+	
+1 1/2	QUANTITY
+tablespoons	UNIT
+butter	NAME
+	
+3/4	QUANTITY
+cup	UNIT
+macadamia	NAME
+nut	NAME
+oil	NAME
+,	O
+or	O
+more	O
+as	O
+needed	O
+	
+1	QUANTITY
+teaspoon	UNIT
+red	NAME
+wine	NAME
+vinegar	NAME
+,	O
+or	O
+more	O
+to	O
+taste	O
+	
+1/2	QUANTITY
+teaspoon	UNIT
+ground	STATE
+red	NAME
+pepper	NAME
+	
+1	QUANTITY
+tablespoon	UNIT
+chopped	STATE
+fresh	DF
+rosemary	NAME
+	
+1 1/2	QUANTITY
+tablespoons	UNIT
+dried	DF
+oregano	NAME
+	
+olive	NAME
+oil	NAME
+	
+6	QUANTITY
+tomatoes	NAME
+-	O
+peeled	STATE
+,	O
+seeded	STATE
+,	O
+and	O
+chopped	STATE
+	
+1/2	QUANTITY
+teaspoon	UNIT
+cayenne	NAME
+powder	NAME
+-LRB-	O
+optional	O
+-RRB-	O
+	
+1	QUANTITY
+-LRB-	O
+8	QUANTITY
+ounce	UNIT
+-RRB-	O
+container	UNIT
+pineapple	NAME
+cream	NAME
+cheese	NAME
+spread	NAME
+	
+3	QUANTITY
+tablespoons	UNIT
+tomato	NAME
+paste	NAME
+	
+1	QUANTITY
+lemon	NAME
+,	O
+cut	STATE
+into	O
+wedges	O
+	
+1 1/2	QUANTITY
+cups	UNIT
+canned	STATE
+pineapple	NAME
+chunks	NAME
+	
+4	QUANTITY
+burrito-size	NAME
+tortillas	NAME
+,	O
+or	O
+as	O
+needed	O
+	
+1/4	QUANTITY
+cup	UNIT
+sour	STATE
+cream	NAME
+,	O
+or	O
+to	O
+taste	O
+	
+freshly	DF
+grated	STATE
+Parmesan	NAME
+cheese	NAME
+	
+1/4	QUANTITY
+cup	UNIT
+slivered	STATE
+kalamata	NAME
+olives	NAME
+	
+1	QUANTITY
+teaspoon	UNIT
+Worcestershire	NAME
+sauce	NAME
+	
+1	QUANTITY
+lemon	NAME
+,	O
+juiced	STATE
+	
+2	QUANTITY
+tablespoons	UNIT
+margarine	NAME
+,	O
+softened	STATE
+	
+4	QUANTITY
+salmon	NAME
+fillets	NAME
+	
+2	QUANTITY
+zucchinis	NAME
+,	O
+sliced	STATE
+	
+1/4	QUANTITY
+cup	UNIT
+chopped	STATE
+cilantro	NAME
+,	O
+or	O
+to	O
+taste	O
+	
+4	QUANTITY
+ounces	UNIT
+shredded	STATE
+mozzarella	NAME
+cheese	NAME
+	
+2	QUANTITY
+teaspoons	UNIT
+chopped	STATE
+fresh	DF
+dill	NAME
+	
+1/2	QUANTITY
+teaspoon	UNIT
+baking	NAME
+powder	NAME
+	
+1	QUANTITY
+-LRB-	O
+32	QUANTITY
+ounce	UNIT
+-RRB-	O
+container	UNIT
+plain	NAME
+yogurt	NAME
+	
+1/4	QUANTITY
+pound	UNIT
+bacon	NAME
+,	O
+chopped	STATE
+	
+3/4	QUANTITY
+cup	UNIT
+confectioners	NAME
+'	O
+sugar	NAME
+	
+1/2	QUANTITY
+cup	UNIT
+chopped	STATE
+green	NAME
+onions	NAME
+	
+2	QUANTITY
+teaspoons	UNIT
+chili	NAME
+powder	NAME
+,	O
+divided	STATE
+	
+1	QUANTITY
+acorn	NAME
+squash	NAME
+,	O
+halved	UNIT
+and	O
+seeded	STATE
+	
+3	QUANTITY
+tablespoons	UNIT
+chopped	STATE
+fresh	DF
+cilantro	NAME
+,	O
+divided	STATE
+	
+1	QUANTITY
+teaspoon	UNIT
+paprika	NAME
+	
+1/2	QUANTITY
+teaspoon	UNIT
+black	NAME
+pepper	NAME
+	
+1	QUANTITY
+-LRB-	O
+5	QUANTITY
+pound	UNIT
+-RRB-	O
+boneless	STATE
+pork	NAME
+loin	NAME
+roast	NAME
+	
+1	QUANTITY
+-LRB-	O
+2.25	QUANTITY
+ounce	UNIT
+-RRB-	O
+can	UNIT
+sliced	STATE
+black	NAME
+olives	O
+,	O
+drained	STATE
+	
+1/4	QUANTITY
+cup	UNIT
+brown	NAME
+sugar	NAME
+	
+1	QUANTITY
+large	SIZE
+head	NAME
+cabbage	NAME
+,	O
+shredded	STATE
+	
+7	QUANTITY
+ounces	UNIT
+1/4-inch	O
+thick	NAME
+rice	NAME
+stick	NAME
+noodles	NAME
+	
+1	QUANTITY
+pinch	UNIT
+red	NAME
+pepper	NAME
+flakes	NAME
+	
+1	QUANTITY
+-LRB-	O
+6.5	QUANTITY
+ounce	UNIT
+-RRB-	O
+can	UNIT
+minced	STATE
+clams	NAME
+	
+1/3	QUANTITY
+cup	UNIT
+unsalted	STATE
+butter	NAME
+,	O
+softened	STATE
+	
+2	QUANTITY
+teaspoons	UNIT
+soy	NAME
+sauce	NAME
+	
+1	QUANTITY
+pound	UNIT
+red	NAME
+seedless	STATE
+grapes	NAME
+	
+1 1/2	QUANTITY
+cups	UNIT
+grated	STATE
+Parmesan	NAME
+cheese	NAME
+	
+10	QUANTITY
+-LRB-	O
+6	QUANTITY
+inch	UNIT
+-RRB-	O
+corn	NAME
+tortillas	NAME
+,	O
+quartered	STATE
+	
+1	QUANTITY
+pound	UNIT
+beef	NAME
+tenderloin	NAME
+,	O
+cubed	STATE
+	
+1	QUANTITY
+pinch	UNIT
+sea	NAME
+salt	NAME
+	
+1	QUANTITY
+onion	NAME
+,	O
+finely	O
+chopped	STATE
+	
+5	QUANTITY
+cloves	O
+garlic	NAME
+,	O
+pressed	O
+	
+1/4	QUANTITY
+cup	UNIT
+minced	STATE
+fresh	DF
+basil	NAME
+	
+1/2	QUANTITY
+-LRB-	O
+750	QUANTITY
+milliliter	UNIT
+-RRB-	O
+bottle	UNIT
+dry	DF
+white	NAME
+wine	NAME
+	
+1	QUANTITY
+-LRB-	O
+11	QUANTITY
+ounce	UNIT
+-RRB-	O
+can	UNIT
+Mexican-style	NAME
+corn	NAME
+	
+1 1/8	QUANTITY
+cups	UNIT
+rolled	NAME
+oats	NAME
+	
+5	QUANTITY
+tablespoons	UNIT
+double	STATE
+concentrated	STATE
+tomato	NAME
+paste	NAME
+	
+1	QUANTITY
+pound	UNIT
+potatoes	NAME
+,	O
+peeled	STATE
+and	O
+diced	STATE
+	
+1/2	QUANTITY
+cup	UNIT
+minced	STATE
+fresh	DF
+mint	NAME
+leaves	O
+	
+4	QUANTITY
+green	NAME
+onions	NAME
+,	O
+sliced	STATE
+	
+2	QUANTITY
+green	NAME
+onions	NAME
+,	O
+sliced	STATE
+thinly	O
+	
+4	QUANTITY
+tablespoons	UNIT
+rum	NAME
+	
+1	QUANTITY
+pound	UNIT
+Monterey	NAME
+Jack	NAME
+cheese	NAME
+,	O
+grated	STATE
+	
+2	QUANTITY
+teaspoons	UNIT
+lemon	NAME
+juice	NAME
+	
+2	QUANTITY
+teaspoons	UNIT
+margarine	NAME
+	
+1 3/4	QUANTITY
+cups	UNIT
+white	NAME
+sugar	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+sake	NAME
+	
+8	QUANTITY
+ounces	UNIT
+lean	STATE
+ground	STATE
+beef	NAME
+	
+2	QUANTITY
+cups	UNIT
+broth	NAME
+from	O
+cooked	STATE
+oxtails	NAME
+	
+1	QUANTITY
+large	SIZE
+green	NAME
+bell	NAME
+pepper	NAME
+,	O
+sliced	STATE
+into	O
+strips	O
+	
+1	QUANTITY
+cup	UNIT
+unsalted	STATE
+butter	NAME
+	
+2/3	QUANTITY
+cup	UNIT
+uncooked	STATE
+white	NAME
+rice	NAME
+	
+1	QUANTITY
+tablespoon	UNIT
+soy	NAME
+sauce	NAME
+-LRB-	O
+optional	O
+-RRB-	O
+	
+2	QUANTITY
+cloves	UNIT
+garlic	NAME
+,	O
+peeled	STATE
+and	O
+coarsely	O
+chopped	STATE
+	
+1/2	QUANTITY
+cup	UNIT
+Amarula	NAME
+liqueur	NAME
+	
+2	QUANTITY
+tablespoons	UNIT
+Kraft	O
+100	STATE
+%	STATE
+Parmesan	NAME
+Shredded	STATE
+Cheese	NAME
+	
+1	QUANTITY
+cup	UNIT
+finely	O
+ground	STATE
+cornmeal	NAME
+	
+1/4	QUANTITY
+cup	UNIT
+butter	NAME
+,	O
+softened	STATE
+	
+2	QUANTITY
+cups	UNIT
+sifted	STATE
+all-purpose	NAME
+flour	NAME
+	
+1	QUANTITY
+tablespoon	UNIT
+drained	STATE
+capers	NAME
+	
+1	QUANTITY
+pint	NAME
+part-skim	STATE
+ricotta	NAME
+cheese	NAME
+	
+5	QUANTITY
+cups	UNIT
+water	NAME
+	
+1/4	QUANTITY
+cup	UNIT
+chopped	STATE
+fresh	DF
+chives	NAME
+	
+1/2	QUANTITY
+cup	UNIT
+fresh	DF
+bean	NAME
+sprouts	NAME
+,	O
+or	O
+to	O
+taste	O
+-LRB-	O
+optional	O
+-RRB-	O
+	
+4	QUANTITY
+eggs	NAME
+,	O
+whites	NAME
+and	O
+yolks	NAME
+separated	STATE
+	
+1	QUANTITY
+sheet	UNIT
+frozen	TEMP
+puff	NAME
+pastry	NAME
+,	O
+thawed	STATE
